@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 const JumboNav = () => {
   return (
     <div>
-      <div class="lead text-left d-flex">
+      <div class="lead text-left d-flex m">
         <NavLink exact to="/">
           <div class="btn btn-primary btn-lg m-2" role="button">
             Blog

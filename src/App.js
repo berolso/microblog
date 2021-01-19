@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App" >
       <header className="App-header">
-        <div class="jumbotron text-dark container">
+        <div class="jumbotron text-dark container mt-5">
           <h1 class="display-4 text-left">MicroBlog</h1>
           <p class="lead text-left">Read this blog or add your own</p>
           <hr class="my-4" />

@@ -23,10 +23,6 @@ const CommentForm = () => {
     history.push("/");
   };
 
-  const cancel = () => {
-    history.push("/");
-  };
-
   return (
     <div>
       <form onSubmit={handleSubmit}>
